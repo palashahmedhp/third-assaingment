@@ -1,0 +1,49 @@
+.nav{background-color: green;
+	display: flex;
+	justify-content: flex-end;
+	margin:0px ;
+
+}
+.nav a{padding:10px;
+	text-decoration: none;
+	padding: 15px;
+	margin: 0px;
+}
+.nav a:hover{background-color: green;
+}
+aside{ background-color: lightgray;
+	padding: 10px;
+	width: 15%;
+	float: right;
+	margin-top: 5px;
+
+
+}
+*{margin-left: 20px;
+	margin-right: 20px ;
+}
+body{background-color: deepskyblue;
+}
+.figure img{ width: 600px;
+
+}
+.if{float: right;
+}
+.pro{float: right;
+}
+.water{width: 50% ;
+	float: right;
+}
+.form{width: 35%;
+	float: right;
+	background-color: #eee;
+}
+
+.table table{border: 1px solid;
+}
+table,th,td{border: 1px solid;
+}
+footer{background-color: darkgray;
+	text-align: center;
+	padding: 15px;
+}
